@@ -4,4 +4,4 @@ Bitte beachten Sie, dass Sie weiterhin selbstständig alle Schritte ausführen m
 Das ISMS- Tool dient nur der persönlichen Unterstützung und bietet keinerlei Rechtssicherheiten. 
 Urheber des ISMS- Tools ist Herr Manuel Person, 77652 Offenburg 
 Das ISMS- Tool steht kostenlos zur freien Verfügung.
-Das ISMS- Tool sowie sämtliche Weiterentwicklungen des Tools dürfen nicht Vermarktet und Veräußert werden. 
+Das ISMS- Tool sowie sämtliche Weiterentwicklungen des Tools dürfen nicht gewinnbringend Vermarktet und Veräußert werden. 
